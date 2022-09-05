@@ -1,6 +1,8 @@
 # -*- coding:utf-8 -*-
 # author TokeyJs
 
+# 通过get_ip()方法可以获得随机的一个ip，用作代理
+
 import requests
 
 def get_ip():
